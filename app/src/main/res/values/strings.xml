@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Izanami</string>
+    <string name="app_name_complement">OS</string>
+    <string name="application_icon_description">Application icon</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in_message">Welcome to Izanami. If you don\'t have an account yet, then sign up or start by logging in.</string>
+    <string name="sign_up_message">Welcome to Izanami. Create your account here if you don\'t already have one.</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Your name</string>
+    <string name="last_name">Last name</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="remember_me">Remember me</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+</resources>
