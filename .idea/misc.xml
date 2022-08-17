@@ -6,9 +6,12 @@
         <entry key="app/src/main/res/drawable/button_sign_custom.xml" value="0.167" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.158" />
         <entry key="app/src/main/res/drawable/ic_log_i.xml" value="0.158" />
+        <entry key="app/src/main/res/drawable/ic_outline_person_pin_24.xml" value="0.167" />
+        <entry key="app/src/main/res/drawable/ic_profile_placeholder.xml" value="0.167" />
         <entry key="app/src/main/res/drawable/input_sign_custom.xml" value="0.22" />
         <entry key="app/src/main/res/drawable/input_sign_custom_error.xml" value="0.167" />
         <entry key="app/src/main/res/drawable/view_custom_sign.xml" value="0.167" />
+        <entry key="app/src/main/res/layout/activity_complete_sign_up.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.203125" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.203125" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />

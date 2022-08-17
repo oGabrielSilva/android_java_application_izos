@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         this.model.isReady.observe(this, isReady -> {
             if (isReady) {
                 Runnable r = () -> {
-                    startActivity(new Intent(MainActivity.this, SignUpActivity.class));
+                    startActivity(new Intent(MainActivity.this, SignInActivity.class));
                     finish();
                 };
 
